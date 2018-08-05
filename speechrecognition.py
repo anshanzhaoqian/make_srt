@@ -70,9 +70,10 @@ for j in range(0,b):
 	k=k+1
 
 f=open('videoplayback.srt','w',encoding='utf-8')
+f.write('\ufeff')
 f.write(txt)
 f.close()
- 
+
 for i in range(0,sum):
 	filename='chunk'+str(i)+'.wav'
 	if(os.path.exists(filename)):
