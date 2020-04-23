@@ -13,3 +13,11 @@ web变量为youtube地址
 remove.py
 
 删除文件
+
+english_srt.py
+
+new version of speechrecogntion.py
+
+only english srt
+
+no chinese
