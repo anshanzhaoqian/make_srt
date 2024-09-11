@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.5, 3.7]
+    
     steps:
       -
         name: Login to Docker Hub
@@ -26,6 +30,11 @@ jobs:
           push: true
           tags: ${{ vars.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest
 
+
+      - 
+        name: Test with python
+        run: |
+          python --version
 
       - 
         name: Test with pytest
