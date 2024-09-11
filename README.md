@@ -1,18 +1,18 @@
 # make_srt
 
-ÎªyoutubeÓ¢ÎÄÊÓÆµÉú³ÉÖĞÎÄ×ÖÄ»
+ä¸ºyoutubeè‹±æ–‡è§†é¢‘ç”Ÿæˆä¸­æ–‡å­—å¹•
 
-ÔËĞĞ»·¾³ubuntu 16.04.4
+è¿è¡Œç¯å¢ƒubuntu 16.04.4
 
 speechrecogntion.py
 
-ÔËĞĞÕâ¸öÎÄ¼ş¿ÉÒÔÉú³Ésrt×ÖÄ»
+è¿è¡Œè¿™ä¸ªæ–‡ä»¶å¯ä»¥ç”Ÿæˆsrtå­—å¹•
 
-web±äÁ¿ÎªyoutubeµØÖ·
+webå˜é‡ä¸ºyoutubeåœ°å€
 
 remove.py
 
-É¾³ıÎÄ¼ş
+åˆ é™¤æ–‡ä»¶
 
 english_srt.py
 
@@ -21,3 +21,7 @@ new version of speechrecogntion.py
 only english srt
 
 no chinese
+
+2024.09.12
+
+è¿™ä¸ªè„šæœ¬æœ‰ç‚¹è¿‡æœŸäº†ï¼Œè¿‘æœŸä¼šç»´æŠ¤
