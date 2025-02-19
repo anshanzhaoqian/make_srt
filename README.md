@@ -25,3 +25,7 @@ no chinese
 2024.09.12
 
 这个脚本有点过期了，近期会维护
+
+2025.02.19
+
+后续更新在English_srt和Chinese_srt里面
