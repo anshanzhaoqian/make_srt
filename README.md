@@ -2,6 +2,8 @@
 
 为youtube英文视频生成中文字幕
 
+***
+
 运行环境ubuntu 16.04.4
 
 speechrecogntion.py
@@ -9,6 +11,8 @@ speechrecogntion.py
 运行这个文件可以生成srt字幕
 
 web变量为youtube地址
+
+***
 
 remove.py
 
@@ -22,9 +26,13 @@ only english srt
 
 no chinese
 
+***
+
 2024.09.12
 
 这个脚本有点过期了，近期会维护
+
+***
 
 2025.02.19
 
