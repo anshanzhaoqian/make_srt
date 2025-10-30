@@ -37,3 +37,9 @@ no chinese
 2025.02.19
 
 后续更新在English_srt和Chinese_srt里面
+
+***
+
+2025.10.31
+
+更新了English_srt和Chinese_srt
