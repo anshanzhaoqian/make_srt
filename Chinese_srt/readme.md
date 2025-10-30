@@ -11,3 +11,9 @@ googletrans是4.0.2
 SpeechRecognition是3.14.3
 
 pydub是0.25.1
+
+***
+
+web为视频名字
+
+web2为字幕名字
