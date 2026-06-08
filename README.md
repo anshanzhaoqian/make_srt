@@ -43,3 +43,9 @@ no chinese
 2025.10.31
 
 更新了English_srt和Chinese_srt
+
+***
+
+2026.06.08
+
+更新了English_srt_run_offline和Chinese_srt_run_offline
