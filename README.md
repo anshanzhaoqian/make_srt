@@ -52,6 +52,6 @@ no chinese
 
 ***
 
-2026.08.14
+2026.06.14
 
 更新了Chinese_srt_2和srt_to_audio
