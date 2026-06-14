@@ -49,3 +49,9 @@ no chinese
 2026.06.08
 
 更新了English_srt_run_offline和Chinese_srt_run_offline
+
+***
+
+2026.08.14
+
+更新了Chinese_srt_2和srt_to_audio
