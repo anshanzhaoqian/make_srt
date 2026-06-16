@@ -28,3 +28,5 @@ input.srt为字幕名字
 
 我的device用的cuda，compute_type用的float32，这些都可以修改
 
+我的python版本是3.12
+
