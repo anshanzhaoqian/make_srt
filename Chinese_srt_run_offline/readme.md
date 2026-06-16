@@ -18,7 +18,7 @@ output.srt为中文字幕文件
 
 本脚本使用了ollama的gemma3:1b模型
 
-需要下载ollama后运行ollama run gemma3:1b自动下载模型
+需要下载ollama后运行`ollama run gemma3:1b`自动下载模型
 
 然后再运行本脚本
 
