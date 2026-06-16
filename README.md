@@ -62,4 +62,9 @@ no chinese
 
 更新了English_srt_2和Chinese_srt_3
 
+***
+
+2026.06.17
+
+更新了all_in_one,这是一个整合脚本，推荐第一次使用可以用这个脚本
 
