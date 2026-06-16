@@ -6,7 +6,7 @@
 
 第三方库版本
 
-googletrans==4.0.2
+googletrans是4.0.2
 
 ***
 
