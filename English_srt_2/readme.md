@@ -20,7 +20,7 @@ input.srt为字幕名字
 
 我的电脑使用的是cuda13，但是faster-whisper使用的是cuda12，所以我激活了venv环境，使用了这么一条命令
 
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+'pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128'
 
 这条命令会下载cu128版本的pytorch，在venv环境里可以运行cuda12环境，安装requirements.txt之前请先运行这条命令
 
