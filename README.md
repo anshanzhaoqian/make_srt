@@ -55,3 +55,11 @@ no chinese
 2026.06.14
 
 更新了Chinese_srt_2，srt_to_audio和download_youtube
+
+***
+
+2026.06.16
+
+更新了English_srt_2和Chinese_srt_3
+
+
