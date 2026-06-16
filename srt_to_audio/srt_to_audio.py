@@ -5,6 +5,7 @@ from pydub import AudioSegment
 import os
 import re
 import shutil
+import time
 
 # 配置
 SRT_FILE = "output.srt"
@@ -72,6 +73,7 @@ async def main():
 
         try:
             await text_to_audio(cleaned_text, temp_file)
+            time.sleep(10)
             seg_audio = AudioSegment.from_mp3(temp_file)
             audio_segments.append((seg_audio, start_ms, end_ms))
             print(f"      语音时长: {len(seg_audio)}ms, 字幕时长: {end_ms - start_ms}ms")
