@@ -70,3 +70,9 @@ no chinese
 
 更新了all_in_one,这是一个整合脚本，推荐第一次使用可以用这个脚本
 
+***
+
+2026.08.01
+
+更新了Chinese_srt_4和ffmpeg
+
